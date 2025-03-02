@@ -54,9 +54,6 @@ Cluster 2 (Payment-Sensitive): Students who value flexible payment methods over 
 
 ![image](https://github.com/user-attachments/assets/01ead37f-8adb-493f-a100-1f8248a7f544)
 
-
-Trade-Off Insights:
-
 Price-sensitive students prefer restaurants that offer meals under $15 and will switch if prices exceed this threshold.
 
 Payment-sensitive students prioritize restaurants that accept Dragon Dollars, credit cards, and mobile payments.
