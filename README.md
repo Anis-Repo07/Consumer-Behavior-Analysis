@@ -6,6 +6,13 @@ DIG is a locally farm-sourced healthy restaurant chain founded in 2011, offering
 
 This study explores Drexel students’ lunch decision-making process using survey data and Choice-Based Conjoint (CBC) experiments. The goal is to uncover which factors influence students' meal choices and provide data-driven recommendations to improve DIG’s market positioning.
 
+### Tools used for the project:
+Excel – Data Analysis of Survey and CBC data
+
+Python & SPSS software – Regression and Clustering Analysis
+
+Sawtooth Software – Importance Score Visualizations
+
 ## Data Structure Overview
 The dataset consists of two primary sources:
 
