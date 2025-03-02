@@ -68,6 +68,9 @@ Convenience also contributed positively (coefficient = 0.107, p < 0.001).
 
 Longer wait times negatively impacted satisfaction (coefficient = -0.036, p = 0.055), emphasizing the need for faster service.
 
+![image](https://github.com/user-attachments/assets/3316e54b-a573-43c4-92bc-4e525406c203)
+
+
 ### Number of Meals Model (Marginal R² = 0.307):
 
 Convenience was the strongest predictor of purchase frequency (coefficient = 0.654, p < 0.001), meaning students are more likely to return if the buying process is simple and efficient.
