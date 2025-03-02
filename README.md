@@ -79,6 +79,9 @@ Food taste did not significantly impact purchase frequency, suggesting students 
 
 Wait time did not significantly impact the number of meals purchased, indicating that students expect some waiting but do not let it deter repeat purchases.
 
+![image](https://github.com/user-attachments/assets/365cd287-36f0-4c4b-a428-3f8f8b03eb77)
+
+
 ## Recommendations
 ### For DIG’s Business Strategy:
 
