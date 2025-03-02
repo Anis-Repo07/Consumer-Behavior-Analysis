@@ -52,6 +52,9 @@ Cluster 1 (Price-Sensitive): Students who prioritize affordability over other fa
 
 Cluster 2 (Payment-Sensitive): Students who value flexible payment methods over price reductions.
 
+![image](https://github.com/user-attachments/assets/01ead37f-8adb-493f-a100-1f8248a7f544)
+
+
 Trade-Off Insights:
 
 Price-sensitive students prefer restaurants that offer meals under $15 and will switch if prices exceed this threshold.
