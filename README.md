@@ -22,6 +22,9 @@ Demographics: Age, gender.
 
 Decision Influencers: Payment methods, price sensitivity, location proximity.
 
+![image](https://github.com/user-attachments/assets/e1a3dc21-92c2-4e20-8afa-45fd227f5200)
+
+
 ## Executive Summary
 DIG operates in a highly competitive food service market, where Drexel students make lunch decisions based on multiple factors, including price, convenience, and food quality. This project examines how these factors influence their choices and what DIG can do to enhance its appeal.
 
@@ -36,6 +39,7 @@ Importance Score Analysis:
 Price and Payment Methods were the most influential factors in student decision-making.
 
 Students preferred meal prices up to $15 and favored restaurants that offered multiple payment options.
+
 
 Market Segmentation:
 
