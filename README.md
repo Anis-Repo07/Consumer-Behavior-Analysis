@@ -40,6 +40,9 @@ Price and Payment Methods were the most influential factors in student decision-
 
 Students preferred meal prices up to $15 and favored restaurants that offered multiple payment options.
 
+![image](https://github.com/user-attachments/assets/262509f5-ec9c-43fd-adbf-0b8b4d7e78ed)
+
+
 
 Market Segmentation:
 
